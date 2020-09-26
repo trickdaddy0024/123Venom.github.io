@@ -1,10 +1,10 @@
 # Venom Repository
 
-Update - v1.8 - May 24, 2020
+Update - v1.11 - Sept 26, 2020
 
-Added OpenWizard repository.
+Added My Accounts module.
 
-Added Auramod repository.
+Added Fenom Scrapers module.
 
 Kodi File Manager Source:
 https://123venom.github.io/
