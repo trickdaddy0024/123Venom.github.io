@@ -1,10 +1,10 @@
 # Venom Repository
 
-Update - v1.11 - Sept 26, 2020
+Update - v1.12 - Sept 26, 2020
 
 Added My Accounts module.
 
-Added Fenom Scrapers module.
+Added FenomScrapers module.
 
 Kodi File Manager Source:
 https://123venom.github.io/
