@@ -1,0 +1,28 @@
+[B][COLOR red]Update - v1.14 - Jan. 26, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed OpenMeta repository as it's been removed
+    from a4k-openproject.[/I]
+[COLOR yellow]--[/COLOR][I] Added a4kstreaming repository.[/I]
+
+[B][COLOR red]Update - v1.13 - Jan. 23, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added tikipeter repository for Fen.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed nixgate repo for changes to
+    version numbers.[/I]
+[COLOR yellow]--[/COLOR][I] Removed Gaia repo, sorry no longer
+    used here nor has been updated in awhile.[/I]
+[COLOR yellow]--[/COLOR][I] Aeon Nox Silvo repo removed and will
+    now only contain leia version.[/I]
+
+[B][COLOR red]Update - v1.12 - Sept. 26, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] fix incorrect version bump.[/I]
+
+[B][COLOR red]Update - v1.9 - Aug 15, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added AutoWidgets.[/I]
+[COLOR yellow]--[/COLOR][I] Added a4kSubtitles.[/I]
+
+[B][COLOR red]Update - v1.8 - May 24, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added OpenWizard repository.[/I]
+[COLOR yellow]--[/COLOR][I] Added Auramod repository.[/I]
+
+[B][COLOR red]Update - v1.7 - April 1, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added gujal-resolveURL to repo since he's taking over
+    for jsergio.[/I]
