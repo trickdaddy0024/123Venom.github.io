@@ -1,3 +1,9 @@
+[B][COLOR red]Update - v1.16 - March 07, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed gaff with "script.module.metahandler" still being in
+    Venom's repo.  This caused dependency issue under Leia.
+    Now the new metahandler repo will be used and proper
+    dependent version installed.[/I]
+
 [B][COLOR red]Update - v1.15 - March 06, 2021[/COLOR][/B]
 [COLOR yellow]--[/COLOR][I] Made custom repo of Eldorado's Metahandler to solve
     install issues between Kodi 18(Leia) and 19(Matrix).
